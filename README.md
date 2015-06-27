@@ -32,7 +32,7 @@
 | 博客名称 | 博客地址 | 博客介绍 |
 |--------|---------|--------|
 |[王巍(喵神)博客](http://onevcat.com/#blog)|<http://onevcat.com/#blog>|现居日本, 就职于 LINE, 知名 iOS 开发者,目前在维护的 [Swifter](http://swifter.tips/) 也值得收藏。|
-|唐巧博客](http://blog.devtang.com/)|<http://blog.devtang.com/>|国内IOS大神，出书IOS开发进阶。|
+|[唐巧博客](http://blog.devtang.com/)|<http://blog.devtang.com/>|国内IOS大神，出书IOS开发进阶。|
 
 ## 综合其他
 | 站点名称 | 站点地址 | 站点介绍 |
