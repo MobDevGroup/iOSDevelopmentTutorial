@@ -50,6 +50,7 @@
 |[极客学院](http://www.jikexueyuan.com/)|<http://www.jikexueyuan.com/>|专业的在线IT技术课程，第一时间发布最新的技术课程，目前已累计百万用户。|
 |稀土掘金(http://gold.xitu.io/)|<http://gold.xitu.io/>|一个人人都可以推荐分享互联网知识的平台，里面有很多干货。|
 |开发者头条(http://toutiao.io/)|<http://toutiao.io/>|<码农周刊>创办者，开发者的首选阅读分享平台,里面也有很多干货。|
+|麦子学院(http://www.maiziedu.com/)|<http://www.maiziedu.com/>|在线的IT职业教育平台，提供多种技术在线学习。
 
 ## 移动设计 
 | 站点名称 | 站点地址 | 站点介绍 |
@@ -69,3 +70,4 @@
 |[pttrns](http://pttrns.com/)|<http://pttrns.com/>|Pttrns是一个设计模式，资源，灵感汇集的站点，在这里可以找到设计的灵感。|
 |[Do](http://www.invisionapp.com)|<http://www.invisionapp.com>|国外一个很酷的移动App界面设计站点，提供photoshop和sketch模板、主题和组件，而且永久免费。|
 |[materialup](http://www.materialup.com/)|<http://www.materialup.com/>|一个专门介绍Material Design的设计网站，里面有很多不错的关于MD的设计。|
+|[iconstore](http://iconstore.co/)|<http://iconstore.co/>|这里可下载来自顶尖设计师设计的图标, 量非常多, 且全部免费。|
