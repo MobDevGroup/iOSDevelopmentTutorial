@@ -27,6 +27,7 @@
 |[IOS设计模式](https://github.com/skyming/Trip-to-IOS-Design-Patterns)|<https://github.com/skyming/Trip-to-IOS-Design-Patterns>|国内IOS大神搜集整理的设计模式。|
 |[IOS学习资料整理](https://github.com/Aufree/trip-to-iOS)|<https://github.com/Aufree/trip-to-iOS>|为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置。|
 |[cocoacontrols](https://www.cocoacontrols.com/)|<https://www.cocoacontrols.com/>|用于IOS和OS X平台的3612个开源项目和商业UI组件。|
+|[CodePath](http://guides.codepath.com/ios)|<http://guides.codepath.com/ios>|国外一个很不错的IOS开发教程网站|
 
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
