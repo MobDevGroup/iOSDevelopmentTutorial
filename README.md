@@ -29,6 +29,11 @@
 |[cocoacontrols](https://www.cocoacontrols.com/)|<https://www.cocoacontrols.com/>|用于IOS和OS X平台的3612个开源项目和商业UI组件。|
 |[CodePath](http://guides.codepath.com/ios)|<http://guides.codepath.com/ios>|国外一个很不错的IOS开发教程网站|
 |[IOS Tutorial](http://www.tutorialspoint.com/ios/)|<http://www.tutorialspoint.com/ios/>|同样是国外一个不错的IOS自学网站。|
+|[maniacdev](https://maniacdev.com/)|<https://maniacdev.com/>|国外不错的IOS学习网站，从教程到库应有尽有。|
+|[斯坦福大学IOS7公开课](http://v.163.com/special/opencourse/ios7.html)|<http://v.163.com/special/opencourse/ios7.html>|这个不用说，斯坦福大学的教程不管是权威性，还是新颖程度都是No1。|
+|[斯坦福大学IOS8公开课](http://open.163.com/special/opencourse/ios8.html)|<http://open.163.com/special/opencourse/ios8.html>|斯坦福大学公开课：iOS 8开发，这个直接用Swift|
+|[memect](http://memect.com/)|<http://memect.com/>|里面的开发者日报很不错。|
+|[raywenderlich](http://www.raywenderlich.com/)|<http://www.raywenderlich.com/>|又一个不错的国外教程学习网站。|
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
 |--------|---------|--------|
