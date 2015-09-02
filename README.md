@@ -1,57 +1,57 @@
-# IOS开发资源汇总整理
-搜集整理IOS开发过程中不错的学习资源，节省IOS开发者为寻找各种技术站点所花费的时间和精力，也欢迎大家fork&star,推荐你遇到的好的资源，分享出来，一起学习成长，将开源进行到底。
-> * 本文内容会持续不断地更新并维护，如果您有推荐的资源，请到此处[提交信息](https://github.com/MobileDevelopmentGroup/IOSDevelopmentTutorial/issues/1)。
+# iOS开发资源汇总整理
+搜集整理iOS开发过程中不错的学习资源，节省iOS开发者为寻找各种技术站点所花费的时间和精力，也欢迎大家fork&star,推荐你遇到的好的资源，分享出来，一起学习成长，将开源进行到底。
+> * 本文内容会持续不断地更新并维护，如果您有推荐的资源，请到此处[提交信息](https://github.com/MobileDevelopmentGroup/iOSDevelopmentTutorial/issues/1)。
 * 移动开发姊妹篇[Android开发资源汇总整理](https://github.com/MobileDevelopmentGroup/AndroidDevelopmentTutorial),请到这里[提交信息](https://github.com/MobileDevelopmentGroup/AndroidDevelopmentTutorial/issues/1)。
 * 移动开发姊妹篇[Html5开发资源汇总整理](https://github.com/MobileDevelopmentGroup/Html5DevelopmentTutorial),请到这里[提交信息](https://github.com/MobileDevelopmentGroup/Html5DevelopmentTutorial/issues/1)。
 
-## IOS官方相关技术站点
+## iOS官方相关技术站点
 
 | 站点名称 | 站点地址 | 站点介绍 |
 |--------|---------|--------|
-|[IOS官方设计指南](https://developer.apple.com/design/)|<https://developer.apple.com/design/>|这其中包括人机交互指南，自适应的用户界面，国际化，以及无障碍设计，是所有App设计师，产品人员以及开发人员的必修课程。|
-|[IOS官方技术指南](https://developer.apple.com/ios/)|<https://developer.apple.com/ios/>|每年正式发布的最新的IOS开发版本，以及新的一年WWDC大会发布的IOS预览版都会在这里，是开发IOS的权威指南。|
-|[IOS官方IDE-Xcode](https://developer.apple.com/xcode/)|<https://developer.apple.com/xcode/>|介绍Xcode最新特性，使用方法，下载地址。|
+|[iOS官方设计指南](https://developer.apple.com/design/)|<https://developer.apple.com/design/>|这其中包括人机交互指南，自适应的用户界面，国际化，以及无障碍设计，是所有App设计师，产品人员以及开发人员的必修课程。|
+|[iOS官方技术指南](https://developer.apple.com/iOS/)|<https://developer.apple.com/iOS/>|每年正式发布的最新的iOS开发版本，以及新的一年WWDC大会发布的iOS预览版都会在这里，是开发iOS的权威指南。|
+|[iOS官方IDE-Xcode](https://developer.apple.com/xcode/)|<https://developer.apple.com/xcode/>|介绍Xcode最新特性，使用方法，下载地址。|
 |[Swift官方开发指南](https://developer.apple.com/swift/)|https://developer.apple.com/swift/ |最新的swift特性，参考指南，官方实例，视频教程都在此。|
-|[IOS开发官方开发者论坛](https://developer.apple.com/devforums/)|<https://developer.apple.com/devforums/>|官方开发者论坛。|
-|[Apple开发者计划](https://developer.apple.com/programs/)|<https://developer.apple.com/programs/>|主要帮助开发者分发App,以及获取最新的IOS版本，App高级功能，测试App，获取App统计数据等。|
+|[iOS开发官方开发者论坛](https://developer.apple.com/devforums/)|<https://developer.apple.com/devforums/>|官方开发者论坛。|
+|[Apple开发者计划](https://developer.apple.com/programs/)|<https://developer.apple.com/programs/>|主要帮助开发者分发App,以及获取最新的iOS版本，App高级功能，测试App，获取App统计数据等。|
 |[Apple开发者支持](https://developer.apple.com/support/)|<https://developer.apple.com/support/>|包括apple开发者文档，获取最新下载等等|
 |[Apple会员中心](https://developer.apple.com/membercenter/index.action)|<https://developer.apple.com/membercenter/index.action>|包括开发者账号，以及证书，ID和配置文件等，是我们发布App到App Store的主要途径。如果你有Apple ID 注册成为开发者账号（99$/年），那么就可以开发并上传App Store了。|
 
 ## 相关技术论坛站点
 | 站点名称 | 站点地址 | 站点介绍 |
 |--------|---------|--------|
-|[CocoaChina](http://www.cocoachina.com/bbs/)|<http://www.cocoachina.com/bbs/>|国内最早的一个IOS开发论坛，想比做IOS开发的都知道|
-|[Code4App](http://code4app.com/)|<http://code4app.com/>|国内中文IOS社区，收集了大量的IOS开发实例，适合初学者开始学习demo的好地方。|
+|[CocoaChina](http://www.cocoachina.com/bbs/)|<http://www.cocoachina.com/bbs/>|国内最早的一个iOS开发论坛，想比做iOS开发的都知道|
+|[Code4App](http://code4app.com/)|<http://code4app.com/>|国内中文iOS社区，收集了大量的iOS开发实例，适合初学者开始学习demo的好地方。|
 |[UI4App](http://ui4app.com/)|<http://ui4app.com/>|上面网站的姊妹站，搜集了大量的App界面UI，供App产品和设计人员参考。|
-|[IOS开源库](http://github.ibireme.com/github/list/ios/)|<http://github.ibireme.com/github/list/ios/>|IOS大神总结的常用IOS开源库。|
-|[IOS设计模式](https://github.com/skyming/Trip-to-IOS-Design-Patterns)|<https://github.com/skyming/Trip-to-IOS-Design-Patterns>|国内IOS大神搜集整理的设计模式。|
-|[IOS学习资料整理](https://github.com/Aufree/trip-to-iOS)|<https://github.com/Aufree/trip-to-iOS>|为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置。|
-|[cocoacontrols](https://www.cocoacontrols.com/)|<https://www.cocoacontrols.com/>|用于IOS和OS X平台的3612个开源项目和商业UI组件。|
-|[CodePath](http://guides.codepath.com/ios)|<http://guides.codepath.com/ios>|国外一个很不错的IOS开发教程网站|
-|[IOS Tutorial](http://www.tutorialspoint.com/ios/)|<http://www.tutorialspoint.com/ios/>|同样是国外一个不错的IOS自学网站。|
-|[maniacdev](https://maniacdev.com/)|<https://maniacdev.com/>|国外不错的IOS学习网站，从教程到库应有尽有。|
-|[斯坦福大学IOS7公开课](http://v.163.com/special/opencourse/ios7.html)|<http://v.163.com/special/opencourse/ios7.html>|这个不用说，斯坦福大学的教程不管是权威性，还是新颖程度都是No1。|
-|[斯坦福大学IOS8公开课](http://open.163.com/special/opencourse/ios8.html)|<http://open.163.com/special/opencourse/ios8.html>|斯坦福大学公开课：iOS 8开发，这个直接用Swift|
+|[iOS开源库](http://github.ibireme.com/github/list/iOS/)|<http://github.ibireme.com/github/list/iOS/>|iOS大神总结的常用iOS开源库。|
+|[iOS设计模式](https://github.com/skyming/Trip-to-iOS-Design-Patterns)|<https://github.com/skyming/Trip-to-iOS-Design-Patterns>|国内iOS大神搜集整理的设计模式。|
+|[iOS学习资料整理](https://github.com/Aufree/trip-to-iOS)|<https://github.com/Aufree/trip-to-iOS>|为 iOS 初学者所准备的, 旨在帮助 iOS 初学者们快速找到适合自己的学习资料, 节省他们搜索资料的时间, 使他们更好的规划好自己的 iOS 学习路线, 更快的入门, 更准确的定位的目前所处的位置。|
+|[cocoacontrols](https://www.cocoacontrols.com/)|<https://www.cocoacontrols.com/>|用于iOS和OS X平台的3612个开源项目和商业UI组件。|
+|[CodePath](http://guides.codepath.com/iOS)|<http://guides.codepath.com/iOS>|国外一个很不错的iOS开发教程网站|
+|[iOS Tutorial](http://www.tutorialspoint.com/iOS/)|<http://www.tutorialspoint.com/iOS/>|同样是国外一个不错的iOS自学网站。|
+|[maniacdev](https://maniacdev.com/)|<https://maniacdev.com/>|国外不错的iOS学习网站，从教程到库应有尽有。|
+|[斯坦福大学iOS7公开课](http://v.163.com/special/opencourse/iOS7.html)|<http://v.163.com/special/opencourse/iOS7.html>|这个不用说，斯坦福大学的教程不管是权威性，还是新颖程度都是No1。|
+|[斯坦福大学iOS8公开课](http://open.163.com/special/opencourse/iOS8.html)|<http://open.163.com/special/opencourse/iOS8.html>|斯坦福大学公开课：iOS 8开发，这个直接用Swift|
 |[memect](http://memect.com/)|<http://memect.com/>|里面的开发者日报很不错。|
 |[raywenderlich](http://www.raywenderlich.com/)|<http://www.raywenderlich.com/>|又一个不错的国外教程学习网站。|
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
 |--------|---------|--------|
 |[王巍(喵神)博客](http://onevcat.com/#blog)|<http://onevcat.com/#blog>|现居日本, 就职于 LINE, 知名 iOS 开发者,目前在维护的 [Swifter](http://swifter.tips/) 也值得收藏。|
-|[唐巧博客](http://blog.devtang.com/)|<http://blog.devtang.com/>|国内IOS大神，出书IOS开发进阶。|
+|[唐巧博客](http://blog.devtang.com/)|<http://blog.devtang.com/>|国内iOS大神，出书iOS开发进阶。|
 
 ## 综合其他
 | 站点名称 | 站点地址 | 站点介绍 |
 |--------|---------|--------|
-|[开发技术前线](http://www.devtf.cn/)|<http://www.devtf.cn/>|汇集了Android和IOS开发的技术文章，里面大多数文章都总结的不错，适合开发者进阶。|
-|[DevDiv](http://www.devdiv.com/)|<http://www.devdiv.com/>|国内移动开发综合社区，集Android、IOS、Windows Phone于一体|
-|[Appetize](https://appetize.io/)|<https://appetize.io/>|Android和IOS在线模拟器|
+|[开发技术前线](http://www.devtf.cn/)|<http://www.devtf.cn/>|汇集了Android和iOS开发的技术文章，里面大多数文章都总结的不错，适合开发者进阶。|
+|[DevDiv](http://www.devdiv.com/)|<http://www.devdiv.com/>|国内移动开发综合社区，集Android、iOS、Windows Phone于一体|
+|[Appetize](https://appetize.io/)|<https://appetize.io/>|Android和iOS在线模拟器|
 |[screensiz.es](http://screensiz.es/phone)|<http://screensiz.es/phone>|国外整理的智能手机市场占有率机碎片化数据报告。|
 |[Android2014年碎片化报告](http://opensignal.com/reports/2014/android-fragmentation/)|<http://opensignal.com/reports/2014/android-fragmentation/>|Android历年碎片化报告。|
 |[爱开发](http://www.akaifa.com/)|<http://www.akaifa.com/>|爱开发者社区，国内的开发者服务平台，提供大量的模块供开发者使用，大大提高了App的开发效率。|
 |[百度API Store](http://apistore.baidu.com/)|<http://apistore.baidu.com/>|百度开发者服务平台，已汇集国内外众多开发者服务。|
 |[3G 4G Map](http://opensignal.com/)|<http://opensignal.com/>|3G、4G蜂窝网络覆盖地图。|
-|[干货集中营](http://gank.io/)|<http://gank.io/>|刚刚建立的网站，分享移动开发IOS和Android的干货。|
+|[干货集中营](http://gank.io/)|<http://gank.io/>|刚刚建立的网站，分享移动开发iOS和Android的干货。|
 |[慕课网](http://www.imooc.com/)|<http://www.imooc.com/>|国内专注做IT技能教育的课程网站，上面提供许多不错的在线课程|
 |[极客学院](http://www.jikexueyuan.com/)|<http://www.jikexueyuan.com/>|专业的在线IT技术课程，第一时间发布最新的技术课程，目前已累计百万用户。|
 |[稀土掘金](http://gold.xitu.io/)|<http://gold.xitu.io/>|一个人人都可以推荐分享互联网知识的平台，里面有很多干货。|
